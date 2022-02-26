@@ -24,6 +24,10 @@
   color: white;
 }
 
+.font-link {
+  font-family: 'Roboto Serif', italic;
+}
+
 .App-link {
   color: #61dafb;
 }
